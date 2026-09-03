@@ -11,7 +11,7 @@
 
 ---
 
-## 1. Architectural Overview
+## 1. Architectural Overview:
 
 ```
                       +---------------------------------------+
